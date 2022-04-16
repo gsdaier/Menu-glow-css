@@ -1,5 +1,5 @@
 # Menu-glow-css
-Simple menu with some hover effects
+Simple menu with some hover effects and glow
 
 <img src="CSS Creative Menu/gifs/Menu glow.gif" style="width: 400px"> 
 
